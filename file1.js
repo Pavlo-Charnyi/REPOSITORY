@@ -4,6 +4,10 @@ let gitLesson = {
     topic: 'GIT'
 }
 
-for (const iterator in gitLesson) {
-    console.log(`${iterator} ${gitLesson[iterator]}`)    
+const myFunc = () => {
+    for (const iterator in gitLesson) {
+        document.write(`${iterator}: ${gitLesson[iterator]} <br>`)
+    }
 }
+
+
