@@ -32,9 +32,9 @@ Remember:
 <details>
 
 Needed files
-[]- index.html
-[]- scripts.js
+- [] index.html
+- [] scripts.js
 
 Files to be excluded:
-[x]- file3.js 
-[x]- file4.txt 
+- [x] file3.js 
+- [x] file4.txt 
