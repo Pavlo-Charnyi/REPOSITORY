@@ -29,11 +29,11 @@ Remember:
 <details>
     <summary>Another slogan</summary>
     Hard work and dedications pays off
-<details>
+</details>
 
 Needed files
-- [] index.html
-- [] scripts.js
+- [ ] index.html
+- [ ] scripts.js
 
 Files to be excluded:
 - [x] file3.js 
