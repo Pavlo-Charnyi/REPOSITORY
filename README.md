@@ -30,3 +30,11 @@ Remember:
     <summary>Another slogan</summary>
     Hard work and dedications pays off
 <details>
+
+Needed files
+[]- index.html
+[]- scripts.js
+
+Files to be excluded:
+[x]- file3.js 
+[x]- file4.txt 
