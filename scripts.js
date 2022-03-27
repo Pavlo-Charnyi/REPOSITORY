@@ -10,4 +10,4 @@ const myFunc = () => {
     }
 }
 
-
+const MYNAME = 'Pavlo Charnyi'
