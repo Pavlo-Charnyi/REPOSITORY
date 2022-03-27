@@ -1,1 +1,0 @@
-// const MYNAME = 'Pavlo Charnyi'
