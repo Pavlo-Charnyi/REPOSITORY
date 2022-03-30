@@ -35,6 +35,6 @@ Needed files
 - [ ] index.html
 - [ ] scripts.js
 
-Files to be excluded:
+Files that been excluded:
 - [x] file3.js 
 - [x] file4.txt 
